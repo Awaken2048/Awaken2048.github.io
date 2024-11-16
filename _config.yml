@@ -103,7 +103,7 @@ theme: shokax
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
+  type: ''
   repository: git@github.com:Awaken2048/Awaken2048.github.io.git
   branch: main
 
