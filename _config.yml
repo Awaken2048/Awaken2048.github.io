@@ -45,12 +45,14 @@ relative_link: false
 future: true
 syntax_highlighter: false
 highlight:
+  enable: false
   line_number: false
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
 prismjs:
+  enable: false
   preprocess: false
   line_number: true
   tab_replace: ''
